@@ -36,7 +36,7 @@ const Navbar = () => {
             <DropdownMenuLabel>حساب کاربری</DropdownMenuLabel>
             <DropdownMenuSeparator />
             <DropdownMenuItem>
-              <Link href="/profile">پروفایل</Link>
+              <Link href="/">پروفایل</Link>
             </DropdownMenuItem>
             <DropdownMenuItem>
               <Link href="/auth">خروج</Link>
